@@ -15,6 +15,9 @@
             <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Cats are robots" />
+            <option value="$PROJECT_DIR$/Problems/Check burgs" />
+            <option value="$PROJECT_DIR$/Problems/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
             <option value="$PROJECT_DIR$/Problems/Difference of times" />
             <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
@@ -38,6 +41,7 @@
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
             <option value="$PROJECT_DIR$/Problems/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Reversing" />
             <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
             <option value="$PROJECT_DIR$/Problems/Snail" />

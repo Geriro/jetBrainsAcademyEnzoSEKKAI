@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Simple Chatty Bot/task/build/

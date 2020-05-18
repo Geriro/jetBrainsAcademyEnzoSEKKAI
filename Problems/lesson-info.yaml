@@ -43,3 +43,5 @@ content:
 - Replacing 'a' with 'b'
 - Check burgs
 - Check prefix ignoring the case
+- Extracting a substring
+- Comparing strings ignoring whitespaces

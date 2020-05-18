@@ -45,3 +45,6 @@ content:
 - Check prefix ignoring the case
 - Extracting a substring
 - Comparing strings ignoring whitespaces
+- Initializing an array of characters
+- Initializing an array of longs
+- Initializing an array of integers

@@ -5,10 +5,6 @@ class Main {
         String mot1 = scanner.nextLine().trim();
         String mot2 = scanner.nextLine().trim();
 
-        //mot1 = first.replaceAll(" ", "");
-        //mot2 = second.replaceAll(" ", "");
-        //System.out.println(mot1.equals(mot2));
-
         String mot3 = sansespace(mot1);
         String mot4 = sansespace(mot2);
 

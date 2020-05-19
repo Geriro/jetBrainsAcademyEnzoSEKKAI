@@ -9,6 +9,11 @@ class Main {
         int x2 = scanner.nextInt();
         int y2 = scanner.nextInt();
 
+        if (y1 == y2 || x1 == x2 || Math.abs(x1 - x2) == Math.abs(y1 - y2)) {
+            System.out.println("YES");
+        } else {
+            System.out.println("NO");
+        }
 
     }
 }

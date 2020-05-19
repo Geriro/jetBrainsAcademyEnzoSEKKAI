@@ -26,15 +26,3 @@ class Main {
         System.out.println(d + " " + c + " " + b + " " + a);
     }
 }
-
-/*
-int size = scanner.nextInt();
-
-        int[] grades = new int[5];
-
-        for (int i = 0; i < size; i++) {
-            int grade = scanner.nextInt();
-            grades[grade - 1]++;
-        }
-
- */
